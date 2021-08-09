@@ -7,7 +7,7 @@
 **Back end skills**:<br/>
 Spring Boot •  Rest APIs • JUnit com Mockito • MySQL • MVC • Swagger
 
-- Recentemente comecei a estudar Angular.
+<br/>- Recentemente comecei a estudar Angular.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
