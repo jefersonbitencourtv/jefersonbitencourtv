@@ -5,9 +5,9 @@
 <br/>- Gosto de falar sobre: programação, animes, games.
 
 **Back end skills**:<br/>
-Spring Boot •  Rest APIs • JUnit com Mockito • MySQL • MVC • Swagger
+Spring Boot •  Rest APIs • JUnit com Mockito • MySQL • MVC • Swagger • JUnit • Mockito
 
-<br/>- Recentemente comecei a estudar Angular.
+<br/>- Atualmente estou estudando react e node.js. Inclusive fiz meu tcc utilizando react e typescript.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
