@@ -21,4 +21,4 @@ Spring Boot •  Rest APIs • JUnit com Mockito • MySQL • MVC • Swagger �
 
 ### Pode me encontrar em:
 [![Linkedin Badge](https://img.shields.io/badge/-Find%20me%20on%20Linkedin-6A5ACD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-bitencourt/)](https://www.linkedin.com/in/jeferson-bitencourt/)
-[![Gmail Badge](https://img.shields.io/badge/-Send%20me%20an%20email-6A5ACD?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeferson@hotmail.com)](mailto:jeferson267@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Send%20me%20an%20email-6A5ACD?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeferson267@hotmail.com)](mailto:jeferson267@hotmail.com)
