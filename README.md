@@ -1,7 +1,7 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Bem Vindo !</h1>
 
 <br/>- Atualmente estou trabalhando na **[IBM](https://www.ibm.com/br-pt)**. 
-<br/>- Estou focado em Java stack.
+<br/>- Estou atuando como desenvolvedor full stack utilizando JavaEE e AngularJS.
 <br/>- Gosto de falar sobre: programação, animes, games.
 
 **Back end skills**:<br/>
